@@ -1,4 +1,15 @@
-![github](https://user-images.githubusercontent.com/16558205/134389522-a02ab376-1094-4277-892f-a96feea8bfa4.png)
+![Web 1920 – 1](https://user-images.githubusercontent.com/16558205/134394698-7b986c22-5829-4f73-ab1f-d3107105f499.png)
+<p align="center">
+  <b>A software engineer who loves building products.</b><br> <br>
+  <a href="https://www.linkedin.com/in/chetanverma7/" target="_blank">LinkedIn</a> |
+  <a href="https://chetanverma.com/" target="_blank">Portfolio</a> |
+  <a href="https://www.behance.net/chetanverma" target="_blank">Behance</a> |
+  <a href="https://dribbble.com/chetanverma" target="_blank">Dribbble</a> |
+  <br><br>
+</p>
+
+
+
 
 
 <!--
