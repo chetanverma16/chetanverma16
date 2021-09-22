@@ -8,13 +8,6 @@
   <br><br>
 </p>
 
-<div align="center">
-[![Chetanv Verma Stats](https://github-readme-stats.vercel.app/api?username=chetanverma16)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-
-
 <!--
 **chetanverma16/chetanverma16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
