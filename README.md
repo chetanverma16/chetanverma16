@@ -5,6 +5,7 @@
   <a href="https://chetanverma.com/" target="_blank">Portfolio</a> |
   <a href="https://www.behance.net/chetanverma" target="_blank">Behance</a> |
   <a href="https://dribbble.com/chetanverma" target="_blank">Dribbble</a> |
+   <a href="https://twitter.com/chetanvermaaa" target="_blank">Twitter</a> |
   <br><br>
 </p>
 
