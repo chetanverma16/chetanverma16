@@ -3,7 +3,6 @@
   <b>A software engineer who loves building products.</b><br> <br>
   <a href="https://www.chetanverma.com" target="_blank">Portfolio</a> |
   <a href="https://ui.chetanverma.com" target="_blank">UI Components</a> |
-  <a href="https://layouts.chetanverma.com" target="_blank">Layouts/Experiments</a> |
   <a href="https://www.linkedin.com/in/chetanverma7/" target="_blank">LinkedIn</a> |
   <a href="https://www.behance.net/chetanverma" target="_blank">Behance</a> |
   <a href="https://dribbble.com/chetanverma" target="_blank">Dribbble</a> |
