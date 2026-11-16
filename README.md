@@ -3,7 +3,7 @@
 **AI engineer.** I build AI agents, RAG pipelines and multi-agent systems, and ship them end-to-end as iOS apps, Shopify apps, Chrome extensions and web apps.
 
 - Senior Full Stack Engineer at [Doshi](https://doshi.app), building an AI-powered financial learning platform with RAG
-- Founder of Stack Frames Studios, where I build and ship my own products
+- I also build and ship my own products, listed below
 
 ### What I'm building
 
